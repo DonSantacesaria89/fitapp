@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "592274079083",
+    "project_id": "piu-sntdnt",
+    "storage_bucket": "piu-sntdnt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592274079083:android:453243cfd488136ee1a02e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnIGzjoJA4PqyPD80FAYKaX8M5O25sUXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592274079083:android:08c8e6d7fd754bf6e1a02e",
+        "android_client_info": {
+          "package_name": "com.fitapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnIGzjoJA4PqyPD80FAYKaX8M5O25sUXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
